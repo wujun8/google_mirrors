@@ -19,9 +19,10 @@
 * [verygoogle](http://verygoogle.com/)
 * [谷鸟](http://www.z7.cc/)
 * [TMD123](http://54.64.24.234/)
-* [gso](https://github.com/lenbo-ma/gso/wiki/%E5%8F%AF%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%88%97%E8%A1%A8)
 
 ### [greatfire](https://github.com/greatfire/wiki)
+
+### [gso](https://github.com/lenbo-ma/gso/wiki/%E5%8F%AF%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%88%97%E8%A1%A8)
 
 ## hosts
 * [netsh](http://serve.netsh.org/pub/gethosts.php)
