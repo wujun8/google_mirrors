@@ -2,8 +2,8 @@
 
 ### google style
 * [https://wen.lu/ dead](https://wen.lu/)
-* [https://xie.lu/](https://xie.lu/)
-* [https://www.sssis.com/](https://www.sssis.com/webhp?hl=zh-CN)
+* [https://xie.lu/ dead](https://xie.lu/)
+* [http://www.clonegoogle.com/](http://www.clonegoogle.com/webhp?hl=zh-CN)
 * [http://g.hi18.cn/](http://g.hi18.cn/webhp?hl=zh-CN)
 * [https://www.90r.org/](https://www.90r.org/)
 * [https://gg.eeload.com/](https://gg.eeload.com/)
@@ -25,4 +25,4 @@
 ### [gso](https://github.com/lenbo-ma/gso/wiki/%E5%8F%AF%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%88%97%E8%A1%A8)
 
 ## hosts
-* [netsh](http://serve.netsh.org/pub/gethosts.php)
+* [netsh](http://serve.netsh.org/pub/ipv4-hosts/)
