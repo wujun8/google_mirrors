@@ -1,24 +1,26 @@
 ## google_mirrors
 
 ### google style
-* [https://wen.lu/ dead](https://wen.lu/)
-* [https://xie.lu/ dead](https://xie.lu/)
-* [http://www.clonegoogle.com/](http://www.clonegoogle.com/webhp?hl=zh-CN)
+* [https://g.kakarot.net/](https://g.kakarot.net/webhp?hl=zh-CN)
+* [https://search.1-3.org/](https://search.1-3.org/webhp?hl=zh-CN)
+* [https://www.gotosearch.info/](https://www.gotosearch.info/)
 * [http://g.hi18.cn/](http://g.hi18.cn/webhp?hl=zh-CN)
 * [https://www.90r.org/](https://www.90r.org/)
 * [https://gg.eeload.com/](https://gg.eeload.com/)
 * [https://www.ggncr.com/](https://www.ggncr.com/webhp?hl=zh-CN&gws_rd=ssl)
 * [https://g.openibm.com/](https://g.openibm.com/) [http://www.openibm.com/](http://www.openibm.com/)
+* [https://g.ttlsa.com/](https://g.ttlsa.com/)
 
 ### custom style
-* [天外天](http://www.886404.com/)
 * [谷粉](http://www.gfsoso.com/)
 * [Glgoo](http://www.glgoo.com/)
 * [WOW](http://www.wow.com/)
 * [AOL Search](http://www.aolsearch.com/)
-* [verygoogle](http://verygoogle.com/)
-* [谷鸟](http://www.z7.cc/)
-* [TMD123](http://54.64.24.234/)
+* [http://www.gugesou.com/](http://www.gugesou.com/)
+* [http://www.googke.me/](http://www.googke.me/)
+* [https://search.disconnect.me/](https://search.disconnect.me/)
+* [http://www.googleforchina.com/](http://www.googleforchina.com/)
+* [http://www.xiexingwen.com/](http://www.xiexingwen.com/)
 
 ### [greatfire](https://github.com/greatfire/wiki)
 
